@@ -18,3 +18,25 @@
 	3、有序表、无序表、缩进
 	4、字体加粗、下划线、倾斜、删除、引用
 - 🔗 具体介绍：https://mp.weixin.qq.com/s/QnBhCOd_7G4TY4BO1mVmZQ
+
+## 我的其他开源框架
+
+- [SpeedySwift app开发的加速库]([https://github.com/Tliens/Cooler](https://github.com/Tliens/SpeedySwift/edit/master/README.md))
+
+- [KillBug  通过runtime记录用户日志，获取复现步骤的工具 KillBug](https://github.com/Tliens/KillBug)
+
+- [CTNet 这是一个可以指定缓存、重试、优先级的轻量级网络库](https://github.com/ours-curiosity/CTNet)
+
+- [Localizable 国际化方案](https://github.com/Tliens/Localizable)
+
+- [SpeedyMetal Metal 加速框架，GPUImage3的尝试演化](https://github.com/Tliens/SpeedyMetal)
+
+- [GPUImageByMetal  GPUImage 3 中文注释版](https://github.com/Tliens/GPUImageByMetal)
+
+## 微信公众号：独立开发者基地 
+
+> 分享我的独立开发的故事，经验； Share stories and experiences of independent development.
+
+<div  align="center">    
+<img src="https://github.com/Tliens/SpeedySwift/blob/master/WechatIMG58.jpeg" width = "335" height = "388" alt="公众号" align=center />
+</div>
